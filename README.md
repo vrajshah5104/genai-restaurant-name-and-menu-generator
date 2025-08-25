@@ -70,7 +70,7 @@ Follow these steps to get the project running on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/restaurant-name-generator.git](https://github.com/your-username/restaurant-name-generator.git)
+git clone https://github.com/vrajshah5104/genai-restaurant-name-and-menu-generator.git
 cd restaurant-name-generator
 ```
 
@@ -125,7 +125,7 @@ With your environment set up and dependencies installed, running the app is as s
 streamlit run main.py
 ```
 
-Your web browser should automatically open to the application's local URL (usually `http://localhost:8501`).
+Your web browser should automatically open to the application's local URL.
 
 ---
 
@@ -145,8 +145,7 @@ This project is a great starting point. Here are a few ideas for taking it to th
 
 Feel free to connect if you have any questions or suggestions!
 
--   **GitHub**: [your-username](https://github.com/your-username)
--   **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+-   **GitHub**: https://github.com/vrajshah5104
+-   **LinkedIn**: https://www.linkedin.com/in/vraj-nilay-shah
 
 This project was built as a learning exercise in the exciting field of Generative AI. Thanks for checking it out!
-
