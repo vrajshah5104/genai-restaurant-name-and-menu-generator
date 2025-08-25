@@ -149,3 +149,9 @@ Feel free to connect if you have any questions or suggestions!
 -   **LinkedIn**: https://www.linkedin.com/in/vraj-nilay-shah
 
 This project was built as a learning exercise in the exciting field of Generative AI. Thanks for checking it out!
+
+---
+
+## License
+
+MIT
