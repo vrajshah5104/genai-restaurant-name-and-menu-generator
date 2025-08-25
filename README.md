@@ -152,6 +152,6 @@ This project was built as a learning exercise in the exciting field of Generativ
 
 ---
 
-## License
+## 📜 License
 
 MIT
